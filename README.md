@@ -1,4 +1,13 @@
-## Hi there 👋
+
+
+
+<span>
+<img src="./asset/Hello.gif"alt="Hello" width="130"align="left"/>
+
+<img src="https://komarev.com/ghpvc/?username=tech-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Tech-Codes" valign="middle" width="120"  align="right"/>
+</span>
+
+
 
 <!--
 **Tech-Codes/Tech-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
