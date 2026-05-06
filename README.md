@@ -9,10 +9,10 @@
 
 ### 🚀 About Me
 
-* 💻 I’m passionate about **software development / open source**
+* 💻 I’m passionate about **software development / wed develpment**
 * 🌱 Currently learning: *Your tech stack (e.g., React, Node.js, AI, etc.)*
-* 👯 Looking to collaborate on: *Open-source / projects*
-* 💬 Ask me about: *Your skills*
+* 👯 Looking to collaborate on: **
+* 💬 Ask me about: **
 * 📫 Reach me at: *rkrock933@gmail.com*
 
 ---
@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tech-Codes\&show_icons=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tech-Codes&show_icons=true&theme=github_dark)
 
 ---
 
@@ -47,14 +47,13 @@
 
 ### 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Twitter: https://twitter.com/your-handle
+
 
 ---
 
 ### ⚡ Fun Fact
 
-> Add something interesting about yourself 😄
+> I spend more time fixing bugs than creating them… usually 😅
 
 
 ![Snake animation](https://github.com/Tech-Codes/Tech-Codes/blob/output/github-contribution-grid-snake.svg)
