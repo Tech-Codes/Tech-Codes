@@ -1,4 +1,4 @@
-
+# Hi there 👋, I'm Rahul Kumar
 
 
 <span>
@@ -7,12 +7,55 @@
 <img src="https://komarev.com/ghpvc/?username=tech-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Tech-Codes" valign="middle" width="120"  align="right"/>
 </span>
 
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+* 💻 I’m passionate about **software development / open source**
+* 🌱 Currently learning: *Your tech stack (e.g., React, Node.js, AI, etc.)*
+* 👯 Looking to collaborate on: *Open-source / projects*
+* 💬 Ask me about: *Your skills*
+* 📫 Reach me at: *rkrock933@gmail.com*
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** JavaScript, Python, C++, C, Java, C#
+* **Frontend:** React, HTML, CSS, Bootstrap
+* **Backend:** Node.js, Express, php
+* **Tools:** Git, Docker, VS Code, 
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Tech-Codes\&show_icons=true)
+
+---
+
+### 🔥 Streak Stats
+
+![Streak](https://streak-stats.demolab.com?user=Tech-Codes)
+
+---
+
+### 📌 Pinned Projects
+
+* 🚀 Project 1 – 
+* 🌟 Project 2 – 
+
+---
+
+### 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-profile
+* Twitter: https://twitter.com/your-handle
+
+---
+
+### ⚡ Fun Fact
+
+> Add something interesting about yourself 😄
+
 
 ![Snake animation](https://github.com/Tech-Codes/Tech-Codes/blob/output/github-contribution-grid-snake.svg)
 
