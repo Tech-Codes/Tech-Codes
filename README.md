@@ -12,8 +12,9 @@
 * 💻 I’m passionate about **software development / wed develpment**
 * 🌱 Currently learning: *Your tech stack (e.g., React, Node.js, AI, etc.)*
 * 👯 Looking to collaborate on: **
-* 💬 Ask me about: **
-* 📫 Reach me at: *rkrock933@gmail.com*
+* 💬 Ask me about **Java, JavaScript, React, C++, C, Pyhton, SQL**
+* 📫 Reach me at **[rkrock933@gmail.com](mailto:rkrock933@gmail.com)**
+* ⚡ Fun fact: **I debug faster after drinking chai ☕**
 
 ---
 
@@ -38,26 +39,45 @@
 
 ---
 
-### 📌 Pinned Projects
 
-* 🚀 Project 1 – 
-* 🌟 Project 2 – 
+## 🚀 Featured Projects
 
----
-
-### 🌐 Connect With Me
-
-
+| Project              | Description                  |
+| -------------------- | ---------------------------- |
+| 🐍 Snake Game        | Java Swing Snake Game        |
+| 🌐 Portfolio Website | Personal developer portfolio |
 
 ---
 
-### ⚡ Fun Fact
+## 🌐 Connect With Me
 
-> I spend more time fixing bugs than creating them… usually 😅
+<p align="left">
+<a href="https://github.com/Tech-Codes" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 
+<a href="https://linkedin.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-![Snake animation](https://github.com/Tech-Codes/Tech-Codes/blob/output/github-contribution-grid-snake.svg)
+<a href="mailto:rkrock933@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
+---
+
+## ⚡ Fun Fact
+
+> “Programming isn't about what you know; it's about what you can figure out.” 🚀
+
+<p align="center">
+  <img src="https://github.com/Tech-Codes/Tech-Codes/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/Tech-Codes">Rahul Kumar</a>
+</p>
 <!--
 **Tech-Codes/Tech-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
