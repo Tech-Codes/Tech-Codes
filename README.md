@@ -6,9 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=tech-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Tech-Codes" valign="middle" width="120"  align="right"/>
 </span>
+<br>
 
-### 🚀 About Me
-
+🚀 About Me
 * 💻 I’m passionate about **software development / wed develpment**
 * 🌱 Currently learning: *Your tech stack (e.g., React, Node.js, AI, etc.)*
 * 👯 Looking to collaborate on: **
