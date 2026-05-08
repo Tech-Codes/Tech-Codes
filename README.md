@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Rahul Kumar
+# Hi there 👋
+I'm Rahul Kumar
 
 
 <span>
