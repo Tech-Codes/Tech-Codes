@@ -23,8 +23,8 @@ I'm Rahul Kumar
 
 * **Languages:** JavaScript, Python, C++, C, Java, C#
 * **Frontend:** React, HTML, CSS, Bootstrap
-* **Backend:** Node.js, Express, php
-* **Tools:** Git, Docker, VS Code, 
+* **Backend:** Node.js, C++, php, java
+* **Tools:** Git, Docker, VS Code 
 
 ---
 
