@@ -54,15 +54,15 @@ I'm Rahul Kumar
 
 <p align="left">
 <a href="https://github.com/Tech-Codes" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
 <a href="https://linkedin.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:rkrock933@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
 
