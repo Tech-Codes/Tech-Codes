@@ -46,7 +46,7 @@ I'm Rahul Kumar
 | Project              | Description                  |
 | -------------------- | ---------------------------- |
 | 🐍 Snake Game        | Java Swing Snake Game        |
-| 🌐 Portfolio Website | Personal developer portfolio |
+| 🌐 Portfolio Website | portfolio                    |
 
 ---
 
