@@ -12,7 +12,7 @@ I'm Rahul Kumar
 🚀 About Me
 * 💻 I’m passionate about **software development / wed develpment**
 * 🌱 Currently learning: *Your tech stack (e.g., React, Node.js, AI, etc.)*
-* 👯 Looking to collaborate on: **
+* 👯 Looking to collaborate on: 
 * 💬 Ask me about **Java, JavaScript, React, C++, C, Pyhton, SQL**
 * 📫 Reach me at **[rkrock933@gmail.com](mailto:rkrock933@gmail.com)**
 * ⚡ Fun fact: **I debug faster after drinking chai ☕**
