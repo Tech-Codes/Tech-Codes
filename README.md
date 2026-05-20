@@ -82,6 +82,11 @@ I'm Rahul Kumar
 <p align="center">
 ⭐ From <a href="https://github.com/Tech-Codes">Rahul Kumar</a>
 </p>
+
+
+## ✨ Animated Footer
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
 <!--
 **Tech-Codes/Tech-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
