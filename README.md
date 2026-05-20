@@ -28,30 +28,6 @@ I'm Rahul Kumar
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tech-Codes&show_icons=true&theme=dark)
-
----
-
-### 🔥 Streak Stats
-
-![Streak](https://streak-stats.demolab.com?user=Tech-Codes&theme=dark)
-
----
-
-
-## 🚀 Featured Projects
-
-| Project              | Description                  |
-| -------------------- | ---------------------------- |
-| 🐍 Snake Game        | Java Swing Snake Game        |
-| 🌐 Portfolio Website | portfolio                    |
-
----
-
-## Contribution Calendar
-![Contribution](https://ghchart.rshah.org/Tech-Codes)
 
 ## 🌐 Connect With Me
 
