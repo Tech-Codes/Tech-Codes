@@ -30,13 +30,13 @@ I'm Rahul Kumar
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tech-Codes&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tech-Codes&show_icons=true&theme=dark)
 
 ---
 
 ### 🔥 Streak Stats
 
-![Streak](https://streak-stats.demolab.com?user=Tech-Codes)
+![Streak](https://streak-stats.demolab.com?user=Tech-Codes&theme=dark)
 
 ---
 
