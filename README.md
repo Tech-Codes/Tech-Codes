@@ -29,7 +29,7 @@ I'm Rahul Kumar
 ---
 
 ## Readme File
-[Readme](https://Tech-Codes/readme-games/blob/main/README.md)
+[Readme](https://github.com/Tech-Codes/readme-games/blob/main/README.md)
 
 ---
 
