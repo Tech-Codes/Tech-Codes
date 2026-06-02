@@ -53,7 +53,7 @@ I'm Rahul Kumar
 
 ## ⚡ Fun Fact
 
-> “Programming isn't about what you know; it's about what you can figure out.” 🚀
+> “Programming isn't about what you know; it's about what you can figure out..” 🚀
 
 <p align="center">
   <img src="https://github.com/Tech-Codes/Tech-Codes/blob/output/github-contribution-grid-snake.svg" />
