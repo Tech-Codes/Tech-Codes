@@ -58,9 +58,6 @@ I'm Rahul Kumar
 
 ## 🎮 Contribution Crawl
 
-![Contribution Crawl](./contribution-crawl-dark.svg)
-
-<!-- Optional light theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./contribution-crawl-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./contribution-crawl-light.svg">
