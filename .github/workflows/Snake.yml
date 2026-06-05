@@ -1,48 +1,41 @@
-name: Generate Contribution Crawl
+# This workflow warns and then closes issues and PRs that have had no activity for a specified amount of time.
+#
+# You can adjust the behavior by modifying this file.
+# For more information, see:
+# https://github.com/actions/stale
+name: generate animation
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-
-permissions:
-contents: write
+  schedule:
+    - cron: "0 0 * * *"
+    # allows to manually run the job at any time
+  workflow_dispatch:
+  # run on every push on the master branch
+  push:
+    branches:
+      - main
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
-```
-steps:
-  - uses: actions/checkout@v4
+    steps:
+    # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Tech-Codes
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Clone Contribution Crawl
-    run: git clone https://github.com/Tech-Codes/Contribution-Crawl.git crawl
-
-  - name: Setup Node.js
-    uses: actions/setup-node@v4
-    with:
-      node-version: 20
-
-  - name: Install dependencies
-    working-directory: crawl
-    run: npm ci
-
-  - name: Build
-    working-directory: crawl
-    run: npm run build
-
-  - name: Generate Crawl
-    working-directory: crawl
-    run: node dist/index.js Tech-Code ..
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Commit changes
-    run: |
-      git config Tech-Codes "github-actions[bot]"
-      git config rkrock933@gmail.com "41898282+github-actions[bot]@users.noreply.github.com"
-      git add contribution-crawl-*.svg
-      git diff --staged --quiet || git commit -m "Update contribution crawl"
-      git push
-```
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
