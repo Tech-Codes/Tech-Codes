@@ -56,9 +56,16 @@ I'm Rahul Kumar
 
 > “Programming isn't about what you know; it's about what you can figure out..” 🚀
 
-<p align="center">
-  <img src="https://github.com/Tech-Codes/Tech-Codes/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 🎮 Contribution Crawl
+
+![Contribution Crawl](./contribution-crawl-dark.svg)
+
+<!-- Optional light theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contribution-crawl-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contribution-crawl-light.svg">
+  <img alt="Contribution Crawl" src="./contribution-crawl-light.svg">
+</picture>
 
 <p align="center">
 ⭐ From <a href="https://github.com/Tech-Codes">Rahul Kumar</a>
