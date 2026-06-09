@@ -56,7 +56,7 @@ I'm Rahul Kumar
 
 > “Programming isn't about what you know; it's about what you can figure out..” 🚀
 
-## 🎮 Contribution Crawl
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./contribution-crawl-dark.svg">
