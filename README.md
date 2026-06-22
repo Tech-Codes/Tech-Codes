@@ -1,2 +1,5 @@
-
-[![Contribution Crawl](https://github.com/Tech-Codes/Tech-Codes/actions/workflows/contribution-crawl.yml/badge.svg)](https://github.com/Tech-Codes/Tech-Codes/actions/workflows/contribution-crawl.yml)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contribution-crawl-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contribution-crawl-light.svg">
+  <img alt="Contribution Crawl" src="./contribution-crawl-light.svg">
+</picture>
