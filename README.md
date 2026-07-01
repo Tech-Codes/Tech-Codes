@@ -6,7 +6,7 @@ I'm a passionate software developer who enjoys building scalable applications, l
 - 🌱 Currently learning **Full Stack Development**
 - 💻 Interested in **Web Development, AI, and Open Source**
 - 🎯 Goal: Build impactful software and contribute to open-source projects
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: rkrock933@gmail.com
 
 ---
 
