@@ -82,6 +82,8 @@ I'm a passionate software developer who enjoys building scalable applications, l
 
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./contribution-crawl-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./contribution-crawl-light.svg">
