@@ -18,7 +18,8 @@ I'm a passionate software developer who enjoys building scalable applications, l
 - Python
 - Java
 - C++
-- c
+- C
+- Swfit
 
 ### Frontend
 - React
